@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "344529594573",
+    "project_id": "androidloginfirebase-2e2aa",
+    "storage_bucket": "androidloginfirebase-2e2aa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344529594573:android:4d45e5372311a245682184",
+        "android_client_info": {
+          "package_name": "br.unisanta.androidloginfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "344529594573-mqh109gjp4idi05nj2907tpe5ornpd2c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.unisanta.androidloginfirebase",
+            "certificate_hash": "de84ffaa3d3a03ad485cee42634187ad4921c6a3"
+          }
+        },
+        {
+          "client_id": "344529594573-2sf7951s6ftn2i4m7gls4tbpsupu16pd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgyUY9EwPhk2aFp8exQL2CzPa5_-VwQtQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "344529594573-2sf7951s6ftn2i4m7gls4tbpsupu16pd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
